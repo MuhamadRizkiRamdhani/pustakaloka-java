@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="416.0" prefWidth="620.0" style="-fx-background-color: #05005E;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="session.Controller.MainController">
+    <children>
+      <Label fx:id="label21" layoutX="161.0" layoutY="68.0" minHeight="16" minWidth="69" text="PUSTAKALOKA" textFill="WHITE">
+         <font>
+            <Font name="System Bold" size="40.0" />
+         </font>
+      </Label>
+        <Button fx:id="BtnLogin" layoutX="433.0" layoutY="329.0" onAction="#handleButtonAction" prefHeight="33.0" prefWidth="130.0" style="-fx-background-color: #ffffff;" text="Login" />
+        <Label fx:id="label" layoutX="47.0" layoutY="163.0" minHeight="16" minWidth="69" text="Username:" textFill="WHITE" />
+      <TextField fx:id="TxtUsername" layoutX="47.0" layoutY="187.0" prefHeight="26.0" prefWidth="516.0" promptText="masukkan username anda" />
+      <Label fx:id="label1" layoutX="47.0" layoutY="233.0" minHeight="16" minWidth="69" text="Password:" textFill="WHITE" />
+      <javafx.scene.control.PasswordField fx:id="TxtPassword" layoutX="47.0" layoutY="257.0" prefHeight="26.0" prefWidth="516.0" promptText="masukkan password anda" />
+      <Label layoutX="47.0" layoutY="304.0" text="belum punya akun?" textFill="#fffefe" />
+      <Button fx:id="BtnRegister" layoutX="47.0" layoutY="329.0" onAction="#handleRegister" prefHeight="33.0" prefWidth="130.0" style="-fx-background-color: #ffffff;" text="Register" />
+    </children>
+</AnchorPane>

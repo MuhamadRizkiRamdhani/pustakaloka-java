@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/DAO/KategoriUserDAO.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/DAO/UserDAO.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/DAO/BukuAdminDAO.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/View/DashboardUser.fxml</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/Controller/DashboardUserController.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/Model/KategoriBuku.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/Model/Buku.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/Controller/MainController.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/Main.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/View/DashboardAdmin.fxml</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/DAO/BukuUserDAO.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/View/Main.fxml</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/DAO/KategoriAdminDAO.java</file>
+            <file>file:/C:/Users/majan/Documents/NetBeansProjects/Session/src/session/Controller/DashboardAdminController.java</file>
+        </group>
+    </open-files>
+</project-private>
